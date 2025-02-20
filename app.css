@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/* banner and text-box*/
+header {
+    color: white;
+    font-size: 1.5rem;
+    padding: 10px;
+    font-family: "Rubik",  serif;
+    font-weight: 400;
+}
+
+
+.banner {
+    text-align: center;
+    padding: 10px;
+    height: 30vh;
+    background-image: url(images/large-banner.png) ;
+}
+
+.map {
+    border: 2px solid black; 
+    height: 70vh;
+}
+
+form input{
+    padding-left: 10px;
+    height: 2.5rem;
+    width: 25rem;
+
+}
+
+form button {
+    padding: 0;
+}
